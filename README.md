@@ -1,6 +1,12 @@
-# flutter_flow_teste
+# Projeto de conclusao de curso
+Tema: Reconhecimento de Pessoas com e sem Máscara Usando Redes Neurais Convolucionais
 
-A new Flutter project.
+São objetivos específicos desse trabalho:
+*Desenvolver e avaliar modelos de classificação de imagens para identificar pessoas com e sem máscara;
+*Desenvolver um aplicativo para dispositivos móveis multi plataforma para auxiliar no reconhecimento de pessoas com e sem máscara;
+*Integrar o modelo de identificação de pessoas com e sem máscara ao aplicativo.
+
+\end{itemize}
 
 ## Getting Started
 
