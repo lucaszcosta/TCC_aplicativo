@@ -1,4 +1,4 @@
-# Projeto de conclusao de curso
+# Projeto de Conclusão de Curso
 Tema: Reconhecimento de Pessoas com e sem Máscara Usando Redes Neurais Convolucionais
 
 São objetivos específicos desse trabalho:
